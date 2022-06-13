@@ -1,3 +1,6 @@
+ "scripts": {
+    "start": "node index.js"
+
 {
   "dependencies": {
     "@replit/database": "^2.0.1",
